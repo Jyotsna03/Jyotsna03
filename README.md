@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Print("Hello World!")<br>🚀This is @Jyotsna03, a student at @VIT Bhopal, open to collaborate and work with you.<br>👯 I am currently looking for internships and jobs as a fresher. <br>🤝 I'm a Code Wizard in the day and by night, I'm a Visionary mind exploring designs and learning about product management <br>🌱 I’m into Big Data and Machine learning.<br>🎗️ I am digging my hands on Web Development.<br>💬 You can contact me at work.jyotsna01@gmail.com<br>⚡ Fun fact: Why do Java developers wear glasses? Because they don't see sharp.
+🔭 Print("Hello World!")<br>🚀This is Jyotsna03, a student at @VIT Bhopal, open to collaborate and work with you.<br>👯 I am currently looking for internships and jobs as a fresher. <br>🤝 I'm a Code Wizard in the day and by night, I'm a Visionary mind exploring designs and learning about product management <br>🌱 I’m into Big Data and Machine learning.<br>🎗️ I am digging my hands on Web Development.<br>💬 You can contact me at work.jyotsna01@gmail.com<br>⚡ Fun fact: Why do Java developers wear glasses? Because they don't see sharp.
 
 
 ## 🌐 Socials:
